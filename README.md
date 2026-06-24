@@ -7,8 +7,6 @@ acquisition conditions differ between hospitals, the visual appearance shifts ac
 centers. The goal is a classifier whose accuracy degrades as little as possible under this
 out-of-distribution (OOD) shift.
 
-This is the [Kaggle](https://www.kaggle.com/) data-challenge setup originally provided by
-`leo.fillioux@centralesupelec.fr`.
 
 ## Data
 
