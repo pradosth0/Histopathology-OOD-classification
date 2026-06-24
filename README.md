@@ -51,7 +51,7 @@ The classifier head consumes a concatenation of the CLS token and mean patch tok
 (averaged over the last four transformer layers).
 
 ## Setup
-
+ 
 ```bash
 pip install torch torchvision torchmetrics transformers h5py numpy pandas matplotlib tqdm
 ```
